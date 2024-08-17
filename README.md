@@ -38,6 +38,6 @@ Here's a basic example of how to use the script:
 python StereoBM.py
 ```
 
-![DepthMap](https://hackmd.io/_uploads/BkoJGsT5C.png)
+![DepthMap](https://github.com/jason19990305/Stereo-BM/blob/main/PointCloud.png)
 
 
