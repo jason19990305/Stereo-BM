@@ -1,0 +1,2 @@
+# Stereo BM
+ Disparity Map and 3D Point Cloud Visualization  This project uses OpenCV and numpy to compute a disparity map using the Stereo Block Matching (Stereo BM) algorithm. The disparity map is then visualized as a 3D point cloud using Matplotlib. The Stereo BM algorithm compares small blocks of pixels between two stereo images to find matching points, which are used to infer depth information. Key features include disparity search range, block size, and pre-filtering to improve accuracy.
